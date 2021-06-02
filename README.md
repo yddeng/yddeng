@@ -1,7 +1,7 @@
 <h2 align='center'> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=yddeng.readme) -->
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=yddeng.readme" />
+<p align='center'><img src="https://visitor-badge.glitch.me/badge?page_id=yddeng.readme" /></p>
 
 <p align='center'>
 I'm a software developer/DevOps engineer. <br>
@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 <!--
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 -->
 
 <p align='center'>
@@ -56,6 +56,6 @@ Here are some ideas to get you started:
 -->
 
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=yddeng&show_icons=true&theme=material-palenight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yddeng&layout=compact&theme=material-palenight" />
+<img src="https://github-readme-stats.vercel.app/api?username=yddeng&show_icons=true&theme=material-palenight" height="195px"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yddeng&layout=compact&theme=material-palenight" height="195px"/>
 </p>
