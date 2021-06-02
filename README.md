@@ -3,10 +3,10 @@
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=yddeng.readme) -->
 <p align='center'><img src="https://visitor-badge.glitch.me/badge?page_id=yddeng.readme" /></p>
 
-<p align='center'>
+<h4 align='center'>
 I'm a software developer/DevOps engineer. <br>
 I'm from China, living in Chengdu and currently working at game company. 
-</p>
+</h4>
 
 <!--
 **yddeng/yddeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
