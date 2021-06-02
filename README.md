@@ -1,7 +1,9 @@
 <h2 align='center'> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=yddeng.readme) -->
+<!-- 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=yddeng.readme)
 <p align='center'><img src="https://visitor-badge.glitch.me/badge?page_id=yddeng.readme" /></p>
+-->
 
 <h4 align='center'>
 I'm a software developer/DevOps engineer. <br>
