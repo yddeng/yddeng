@@ -1,4 +1,11 @@
-### Hi there 👋
+<h2 align='center'> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+
+<p align='center'>![visitors](https://visitor-badge.glitch.me/badge?page_id=yddeng.readme)</p>
+
+<p align='center'>
+I'm a software developer/DevOps engineer. <br>
+I'm from China, living in Chengdu and currently working at game company. 
+</p>
 
 <!--
 **yddeng/yddeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +22,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yddeng.readme)
 
-![stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=yddeng&show_icons=true&count_private=true&hide=prs&theme=material-palenight)
 
-![languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yddeng&layout=compact&theme=material-palenight)
+<h2 align='center'> Technologies and Tools:</h2>
+<p align='center'>
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+</p>
 
-### Languages and Tools
+<h2 align='center'>  Github Stats </h2>
+<p align='center'>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yddeng&show_icons=true&theme=material-palenight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yddeng&layout=compact&theme=material-palenight)
+</p>
