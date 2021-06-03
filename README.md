@@ -1,4 +1,4 @@
-<h2 align='center'> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+<h2 align='center'> Hi there <img src="https://raw.githubusercontent.com/yddeng/yddeng/master/wave.gif" width="30px"></h2>
 
 <!-- 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yddeng.readme)
